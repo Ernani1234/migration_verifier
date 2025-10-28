@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+openpyxl
+google-cloud-bigquery
+psycopg2-binary
+pymysql
+snowflake-connector-python
+boto3
